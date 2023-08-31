@@ -1,7 +1,8 @@
  ## Real-time Character Counter
 
 This is a simple real-time character counter that counts the number of characters in a textarea and displays the total number of characters and the number of remaining characters.
-
+# Hosted Link
+https://ronaksharma57.github.io/Real-time-Character-counter/
 ### Step-by-Step Explanation
 
 #### HTML
